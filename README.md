@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou o Riquelme Diniz 👋
 
-<!--
-**riquelmecampano-prog/riquelmecampano-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Estudante de **Ciência de Dados para Negócios** na FATEC Sebrae
+- 💼 Atuando como **Jovem Aprendiz** com foco na área **Financeira**
+- ⚙️ Focado em **Automação de Processos**, **Business Intelligence** e soluções orientadas a dados
+- 🛠️ Trabalhando com análise de dados, monitoramento e desenvolvimento
+- 📫 E-mail: riquelmecampano@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Linguagens e Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=riquelmecampano-prog&show_icons=true&theme=radial" height="150" alt="estatisticas github" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riquelmecampano-prog&layout=compact&theme=radial" height="150" alt="linguagens mais usadas" />
+</p>
