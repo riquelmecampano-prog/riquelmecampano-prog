@@ -22,6 +22,6 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=riquelmecampano-prog&show_icons=true&theme=radial" height="150" alt="estatisticas github" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riquelmecampano-prog&layout=compact&theme=radial" height="150" alt="linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=riquelmecampano-prog&show_icons=true&theme=dark" height="150" alt="estatisticas github" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riquelmecampano-prog&layout=compact&theme=dark" height="150" alt="linguagens mais usadas" />
 </p>
