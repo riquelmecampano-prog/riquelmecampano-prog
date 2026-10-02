@@ -30,17 +30,10 @@
 
 ---
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=O_TEU_USUARIO_DO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=O_TEU_USUARIO_DO_GITHUB&layout=compact&theme=tokyonight&hide=html,css"/>
-</div>
-
----
-
 ### Conecte-se comigo:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/riquelme-diniz-campano" target="_blank">
+  <a href="https://www.linkedin.com/in/riquelme-diniz-campano/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:riquelmecampano@gmail.com">
